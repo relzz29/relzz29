@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya Farell Giekady 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -7,8 +7,8 @@
 ---
 
 ### 📌 Sekilas Tentang Saya
-* 🔭 Saat ini sedang fokus mengembangkan **[Nama Proyek/Bidang]**
-* 🌱 Sedang mendalami **[Teknologi yang sedang dipelajari]**
+* 🔭 Saat ini sedang fokus mengembangkan Libraz
+* 🌱 Sedang mendalami Front-End
 * 💡 Terbuka untuk kolaborasi pada proyek **[Open Source / Web Development]**
 * 📫 Hubungi saya via surel di **[alamat-email@domain.com]**
 
