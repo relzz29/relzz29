@@ -9,8 +9,8 @@
 ### 📌 Sekilas Tentang Saya
 * 🔭 Saat ini sedang fokus mengembangkan Libraz
 * 🌱 Sedang mendalami Front-End
-* 💡 Terbuka untuk kolaborasi pada proyek **[Open Source / Web Development]**
-* 📫 Hubungi saya via surel di **[alamat-email@domain.com]**
+* 💡 Terbuka untuk kolaborasi pada proyek web
+* 📫 Hubungi saya via surel di treecamat@gmail.com
 
 ---
 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -31,9 +32,9 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMA_PENGGUNA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=relzz29&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA_PENGGUNA&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relzz29&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -41,10 +42,10 @@
 ### 🌐 Terhubung Dengan Saya
 
 <p align="center">
-  <a href="https://linkedin.com/in/NAMA_PENGGUNA" target="_blank">
+  <a href="https://linkedin.com/in/relzz29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/NAMA_PENGGUNA" target="_blank">
+  <a href="https://instagram.com/relzz29" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
