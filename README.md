@@ -32,11 +32,12 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=relzz29&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=relzz29&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relzz29&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=relzz29&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🌐 Terhubung Dengan Saya
