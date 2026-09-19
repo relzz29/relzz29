@@ -7,10 +7,10 @@
 ---
 
 ### 📌 Sekilas Tentang Saya
-* 🔭 Saat ini sedang fokus mengembangkan Libraz
-* 🌱 Sedang mendalami Front-End
-* 💡 Terbuka untuk kolaborasi pada proyek web
-* 📫 Hubungi saya via surel di treecamat@gmail.com
+* 🔭 Saat ini sedang fokus mengembangkan **Libraz**
+* 🌱 Sedang mendalami **Front-End Development**
+* 💡 Terbuka untuk kolaborasi pada **proyek web**
+* 📫 Hubungi saya via email di **treecamat@gmail.com**
 
 ---
 
@@ -32,7 +32,7 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=relzz29&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=relzz29&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relzz29&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -42,6 +42,9 @@
 ### 🌐 Terhubung Dengan Saya
 
 <p align="center">
+  <a href="https://github.com/relzz29" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/relzz29" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
